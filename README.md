@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A solutions-driven Full Stack developer from Denver</h3>
 
-- 🔭 I’m currently working on [bestBnB](https://github.com/tbluher14/bestBnB)
 
 - 🌱 I’m currently learning **AWS and fine tuning my Front-End Skillset**
 
