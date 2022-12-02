@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">Hi, I'm Tom 👋</h1>
 <h3 align="center">A solutions-driven Full Stack developer from Denver</h3>
 
 
