@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **AWS and fine tuning my Front-End Skill Set**
 
-- 👨‍💻 All of my projects are available at [https://tbluher14.github.io/](Profile Site)
-
 - 💬 Ask me about **React, JavaScript, Redux, Python, Express, Node.js, PostgreSQL, SQLAlchemy, Flask**
 
 - 📫 How to reach me **tbluher14@gmail.com**
