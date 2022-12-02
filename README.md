@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tbluher14@gmail.com**
 
-- ⚡ Fun fact **I run a small music festival in the Rocky Mountains of Colorado**
+- ⚡ Fun fact: **I run a small music festival in the Rocky Mountains of Colorado**
 
 
 <h3 align="left">Languages and Tools:</h3>
