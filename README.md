@@ -2,7 +2,7 @@
 <h3 align="center">A solutions-driven Full Stack developer from Denver</h3>
 
 
-- 🌱 I’m currently learning **AWS and fine tuning my Front-End Skillset**
+- 🌱 I’m currently learning **AWS and fine tuning my Front-End Skill Set**
 
 - 👨‍💻 All of my projects are available at [https://tbluher14.github.io/](https://tbluher14.github.io/)
 
@@ -10,12 +10,10 @@
 
 - 📫 How to reach me **tbluher14@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CI10mmqThp9BFVnsoFI8DbzNofRRAYEzo8NINwuPXww/edit](https://docs.google.com/document/d/1CI10mmqThp9BFVnsoFI8DbzNofRRAYEzo8NINwuPXww/edit)
-
 - ⚡ Fun fact **I run a small music festival in the Rocky Mountains of Colorado**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> https://www.linkedin.com/in/tom-bluher-172321115/
+<p align="left"> LinkedIn [https://www.linkedin.com/in/tom-bluher-172321115/]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
