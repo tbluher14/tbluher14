@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tom 👋</h1>
-<h3 align="center">A solutions-driven Full Stack developer from Denver</h3>
+<h1 align="center">Hi, I'm Tom!</h1>
+<h3 align="center">A solutions-driven Full Stack Developer from Denver, Colorado</h3>
 
 
 - 🌱 I’m currently learning **AWS and fine tuning my Front-End Skill Set**
